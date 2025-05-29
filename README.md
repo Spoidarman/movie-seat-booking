@@ -58,10 +58,6 @@ The project showcases modern frontend development techniques including:
 - 📊 Visual seat legend
 - 🔄 Smooth transitions and animations
 
-## Demo
-
-[Live Demo](#) *Add your live demo link here*
-
 ## Installation
 
 To run this project locally:
