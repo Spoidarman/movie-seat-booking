@@ -1,6 +1,6 @@
 # Movie Seat Booking System
 
-![Project Screenshot](./screenshot.png) *Replace with actual screenshot path*
+![Project Screenshot](./screenshot.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
